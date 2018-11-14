@@ -1,0 +1,72 @@
+/* 
+================================
+ Container Styles for DotNetNuke
+================================
+.
+
+
+/*-------------------------------------------------------------------------------*/
+.actions{ width:10px;}
+.clear									 { clear:both;}
+.c_footer								 { padding-right:10px; text-align:right;}
+.dnntitle 								 { padding-left:10px;}
+.c_contentpane 							 { text-align:left; padding:2px 5px 0px 5px;}
+.ModuleTitle_MenuContainer				 { width:100px!important;}
+
+
+.Container-1 							 { margin:0 0 5px;  }
+.Container-1 .dnntitle					 { white-space:nowrap;   padding:0px 0 15px;  text-align:center; }
+.Container-1 .dnntitle .title1:after	 { content:""; border-bottom:1px solid #111111; display:block; width:114px; margin:25px auto 0;}
+.Container-1 .contentmain1				 { }
+.Container-1 .contentpane				 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-2 							 { margin:0 0 5px;  }
+.Container-2 .dnntitle					 { white-space:nowrap;   padding:0px 0 15px;  text-align:center; }
+.Container-2 .dnntitle .title1:after	 { content:""; border-bottom:1px solid #111111; display:block; width:114px; margin:18px auto 0;}
+.Container-2 .contentmain1				 { }
+.Container-2 .contentpane				 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-3 							 { margin:0 0 5px;  }
+.Container-3 .dnntitle					 { white-space:nowrap;   padding:0px 0 10px;  text-align:center; }
+.Container-3 .contentmain1				 { }
+.Container-3 .contentpane				 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }	
+
+.Container-4 							 { margin:0 0 5px;  }
+.Container-4 .dnntitle					 { white-space:nowrap;   padding:0px 0 10px;  text-align:left; }
+.Container-4 .contentmain1				 { }
+.Container-4 .contentpane				 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }	
+
+.Container-11 							 { margin-bottom:5px; }
+.Container-11 .dnntitle					 { white-space:nowrap; text-align:left; padding:0px; margin:0px 0 15px; }
+.Container-11 .contentmain1				 { padding:0 0 0 68px; }
+.Container-11 .contentpane				 { padding:5px 0px 3px 0px; text-align:left; vertical-align:top; clear:both; }
+.Container-11 .dnntitle img 			 { margin:8px 15px 0 0; vertical-align:top ; max-width:50px; }
+
+														 
+.Container-H1 							 { margin-bottom:5px; }
+.Container-H1 .dnntitle					 { padding:0px;}
+.Container-H1 .contentmain			 	 { }
+.Container-H1 .contentpane			 	 { padding:5px 0px 1px 0px; text-align:left; vertical-align:top; clear:both;       }
+
+.Container-H2 							 { margin-bottom:5px; }
+.Container-H2 .dnntitle					 { padding:0px;}
+.Container-H2 .contentmain			     {}
+.Container-H2 .contentpane			 	 { padding:5px 0px 1px 0px; text-align:left; vertical-align:top; clear:both;     }
+
+.Container-H3 							 { margin-bottom:5px; }
+.Container-H3 .dnntitle					 { padding:0px;}
+.Container-H3 .contentmain				 { }
+.Container-H3 .contentpane				 { padding:5px 0px 1px 0px; text-align:left; vertical-align:top; clear:both;     }
+
+
+
+.title1{font-size:18px; line-height:1.2; color:#353535; white-space:normal; vertical-align:middle; font-weight:600; padding:0px; margin:0px; text-transform:uppercase; }
+
+.title2{font-size:18px; line-height:1.2; color:#fff; white-space:normal; vertical-align:middle; font-weight:700; padding:0px; margin:0px; text-transform:uppercase; }
+
+.title3{font-size:50px; line-height:1.2; color:#333333; white-space:normal; vertical-align:middle; font-weight:700; padding:0px; margin:0px; }
+
+.title4{font-size:12px; line-height:1.2; color:#fff; white-space:normal; vertical-align:middle; font-weight:bold; padding:0px; margin:0px; }
+
+
+

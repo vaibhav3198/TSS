@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.allcooper.com	TRUE	/	FALSE	1999999999	.ASPXANONYMOUS	rCKpjZE9c6W51yoAPgR3IqkwA0efqyzrn3BqsjCOgDvUz_W-ZYOp-A3Uc4RywzQnFiR4wUIRAaunkGprdU_1A1cimDBd8UpdRC6_aVmjGMgUAukA0
+www.allcooper.com	TRUE	/	FALSE	1999999999	OriginalReferrer	--
+www.allcooper.com	TRUE	/	FALSE	1999999999	LandingPage	http://www.allcooper.com/contact/enquiry-form.aspx
+www.allcooper.com	TRUE	/	FALSE	1999999999	__RequestVerificationToken	9A2dnLiu_KJNSA42NoBn3oHv_hCyzxgVO5Wv25NwfDmIAaCaiwkuTnI1niHHaNxG0qF9lg2
+www.allcooper.com	TRUE	/	FALSE	1999999999	dnn_IsMobile	False
+www.allcooper.com	TRUE	/	FALSE	1999999999	language	en-US
+

@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Nov 2018 01:58:03 at https://www.allcooper.com/contact/enquiry-form.aspx +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.allcooper.com/contact/enquiry-form.aspx -O1 "C:\Users\HP\Desktop\IIIT\3rd Year\5th Sem\Technical Communication\Website\Contact" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:00:38	Error: 	"Not Found" (404) at link https://www.allcooper.com/Resources/images/arrow-right-white.png (from https://www.allcooper.com/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=56)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/DesktopModules/DNNGo_PowerForms/Effects/Effect_01_Responsive/Themes/Theme_Responsive_20070_Contact/images/calendar.png (from https://www.allcooper.com/DesktopModules/DNNGo_PowerForms/Effects/Effect_01_Responsive/Themes/Theme_Responsive_20070_Contact/Style.css?cdv=56)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/fonts/glyphicons-regular.eot (from https://www.allcooper.com/Portals/_default/skins/allcooper/bootstrap.css)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/fonts/glyphicons-regular.eot? (from https://www.allcooper.com/Portals/_default/skins/allcooper/bootstrap.css)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/fonts/glyphicons-regular.woff (from https://www.allcooper.com/Portals/_default/skins/allcooper/bootstrap.css)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/fonts/glyphicons-regular.ttf (from https://www.allcooper.com/Portals/_default/skins/allcooper/bootstrap.css)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/fonts/glyphicons-regular.svg (from https://www.allcooper.com/Portals/_default/skins/allcooper/bootstrap.css)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/fonts/glyphicons-social-regular.eot (from https://www.allcooper.com/Portals/_default/skins/allcooper/bootstrap.css)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/fonts/glyphicons-social-regular.eot? (from https://www.allcooper.com/Portals/_default/skins/allcooper/bootstrap.css)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/fonts/glyphicons-social-regular.woff (from https://www.allcooper.com/Portals/_default/skins/allcooper/bootstrap.css)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/fonts/glyphicons-social-regular.ttf (from https://www.allcooper.com/Portals/_default/skins/allcooper/bootstrap.css)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/fonts/glyphicons-social-regular.svg (from https://www.allcooper.com/Portals/_default/skins/allcooper/bootstrap.css)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/images/tab-left-active-bg.png (from https://www.allcooper.com/Portals/_default/skins/allcooper/bootstrap.css)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/images/tab-right-active-bg.png (from https://www.allcooper.com/Portals/_default/skins/allcooper/bootstrap.css)
+02:00:59	Error: 	"Not Found" (404) at link https://www.allcooper.com/Portals/_default/skins/allcooper/css/owl.video.play.png (from https://www.allcooper.com/Portals/_default/skins/allcooper/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 56 seconds : 139 links scanned, 123 files written (6275576 bytes overall) [4619858 bytes received at 26249 bytes/sec], 2743507 bytes transferred using HTTP compression in 36 files, ratio 37%
+(15 errors, 0 warnings, 0 messages)
